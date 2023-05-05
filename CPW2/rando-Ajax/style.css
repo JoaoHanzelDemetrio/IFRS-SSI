@@ -1,0 +1,13 @@
+html {
+  font-family: 'Ubuntu', sans-serif;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+img{
+  width: 50%;
+  position: relative;
+  padding-left: 25%;
+  padding-right: 25%;
+}
