@@ -1,0 +1,19 @@
+html {
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  background-color: #335e45;
+}
+
+img{
+  width: 50%;
+  position: relative;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-bottom: 4%;
+  border-style: solid;
+  border-color: #73a879;
+  border-radius: 1%;
+}
